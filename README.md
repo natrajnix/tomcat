@@ -16,7 +16,7 @@ Usage
 knife supermarket download apt
 ```
 
-3) Upload code to the Chef Server and Bootstrap your clent machine
+3) Upload code to the Chef Server
 ```
 knife cookbook upload tomcat
 ```
