@@ -1,0 +1,7 @@
+name             'tomcat'
+maintainer       'nataraj'
+maintainer_email 'lingamnatraj93@gmail.com'
+license          'All rights reserved'
+description      'Installs/Configures tomcat'
+long_description 'This cookbooks performs the installation & Configuration of Java & Tomcat 8 included tomcat service feature'
+version          '0.1.0'
