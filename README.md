@@ -5,7 +5,6 @@
 This cookbooks performs the installation & Configuration of Java & Tomcat 8 included tomcat service feature
 ```
 
-
 Usage
 ------------
 
@@ -31,7 +30,5 @@ sudo chef-client
 http://x.x.x.x:8080/hello/sayhello
 ```
 
-
-Reference : https://github.com/msergiy87/chef-tomcat-hello-world
 
 
